@@ -27,3 +27,9 @@ $ mkdir homestead && \
 ```
 
 After it's complete, `vendor/laravel/homestead` will be a git checkout and can be used normally.
+
+## Auth
+
+SSH address: 127.0.0.1:2200 \
+SSH username: vagrant \
+SSH pass: vagrant
